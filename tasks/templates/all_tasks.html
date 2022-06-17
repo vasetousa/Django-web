@@ -1,0 +1,44 @@
+{% extends 'base/base.html' %}
+{% block page_content %}
+<body>
+{% if request.user.is_authenticated %}
+    <p>{{ request.user }}</p>
+    <a href="{% url 'logout' %}">Logout</a>
+    {% else %}
+    <a href="{% url 'login' %}">Login</a>
+{% endif %}
+
+<hr>
+
+<h1>My tasks will be listed here</h1>
+
+<a href="{% url 'task create' %}">Add New Task</a>
+<hr>
+<form method="GET">
+    <input type="text" name="search-area" value="{{ search_input }}">
+    <input type="submit" value="Search">
+</form>
+
+<hr>
+
+<table>
+    <tr>
+        <th>Tasks</th>
+        <th></th>
+        <th></th>
+    </tr>
+    {% for t in tasks %}
+        <tr>
+            <td>{{ t.title }}</td>
+            <td><a href="{%  url 'task update' t.pk %}">Edit</a> </td>
+            <td><a href="{%  url 'task delete' t.pk %}">Delete</a> </td>
+        </tr>
+        {% empty %}
+        <h3>No items in list</h3>
+    {% endfor %}
+</table>
+
+</body>
+
+
+{% endblock %}

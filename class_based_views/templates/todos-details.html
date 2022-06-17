@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block page_containt %}
+    <hr>
+    <h1>
+        {{ object.title }}
+    </h1>
+    {{ object.category.name }}
+    <p>
+        {{ object.description }}
+    </p>
+
+{% endblock %}

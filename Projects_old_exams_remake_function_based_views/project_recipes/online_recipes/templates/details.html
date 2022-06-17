@@ -1,0 +1,49 @@
+{% extends 'base/base.html' %}
+{% load static %}
+{% block page_content %}
+    {% csrf_token %}
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="{% static 'css/style.css' %}">
+        <title>Recipes</title>
+    </head>
+
+    <body>
+    <div class="container">
+
+        <h1>Recipe Details</h1>
+        <div class="items-container">
+            <div class="item">
+                <h2>{{ current_recipe.title }}</h2>
+                <img class="detail-img" src="{{ current_recipe.image_url }}" alt="recipe-image">
+                <div class="time">
+                    <img src="{% static 'images/clock.png' %}">
+                    <p>{{ current_recipe.time }}min</p>
+                </div>
+                <h3>Ingredients</h3>
+                {% for item in ingr %}
+                    <ul>
+                        <li>{{ item }}</li>
+                    </ul>
+                {% endfor %}
+                <h3>How to prepare?</h3>
+                <div class="recipe-info-full">
+                    {{ current_recipe.description }}
+                </div>
+
+                <div class="buttons-container">
+                    <a class="button edit" href="{% url 'edit recipe' current_recipe.pk %}">Edit</a>
+                    <a class="button delete" href="{% url 'delete recipe' current_recipe.pk %}">Delete</a>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+    </body>
+    </html>
+{% endblock %}

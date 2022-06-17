@@ -1,0 +1,8 @@
+
+<h1>Login</h1>
+    <h2>Current user:  {{ request.user | capfirst }}</h2>
+<form action="{% url 'logout' %}" method="POST" >
+{% csrf_token %}
+{{ form.as_p }}
+    <button>Logout</button>
+</form>

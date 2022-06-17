@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<a href="{% url 'index func-based' %}">FBV</a>
+<a href="{% url 'index class-based' %}">CBV</a>
+<a href="{% url 'index class-based (template)' %}">CBV (templated)</a>
+<a href="{% url 'todos list' %}">CBV todos</a>
+
+</body>
+</html>
+
+{% block page_containt %}
+{% endblock %}

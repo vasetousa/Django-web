@@ -1,0 +1,25 @@
+{% extends 'base/base.html' %}
+{% load static %}
+{% block page_content %}
+    {% csrf_token %}
+
+    <h1>My Notes</h1>
+    {% if not notes %}
+        <div style="text-align: center;"/>
+        <h2>There are no notes.</h2>
+
+        <!--notes container-->
+    {% else %}
+        <div class="note-container">
+            {% for el in notes %}
+                <h2>{{ el.title }} <img src="{{ el.image_url }}"/></h2>
+
+            <div class="right">
+                <a class="button details" href="{% url 'details note' el.pk %}">Details</a>
+                <a class="button edit" href="{% url 'edit note' el.pk %}">Edit</a>
+                <a class="button delete" href="{% url 'delete note' el.pk %}">Delete</a>
+            </div>
+        </div>
+            {% endfor %}
+    {% endif %}
+{% endblock %}

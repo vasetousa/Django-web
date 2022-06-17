@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f351086-d0eb-4f0b-abc8-5e7869c8a0a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/.idea/Retake_exam_from_django_web_jan_2022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/1. GamesPlay App_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/1. GamesPlay App_Skeleton.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/images/bg-fixed-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/images/default-user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/images/four_slider_img01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/images/icon-gamepad-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/images/icon-gamepad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/styles/details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/styles/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/styles/navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/styles/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/static/styles/welcome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/create-game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/create-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/delete-game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/delete-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/details-game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/details-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/edit-game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/edit-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Retake_exam_from_django_web_jan_2022/resources/templates/home-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../expensesTracker/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../expensesTracker/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../expensesTracker/.idea/expensesTracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../expensesTracker/.idea/expensesTracker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../expensesTracker/expensesTracker/web/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../expensesTracker/expensesTracker/web/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../expensesTracker/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../expensesTracker/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../petstagram/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../petstagram/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../petstagram/.idea/dataSources/892ba334-7074-4ede-a5b6-6295ef0a6502.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../petstagram/.idea/dataSources/892ba334-7074-4ede-a5b6-6295ef0a6502.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../petstagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../petstagram/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="280Qz4amG18bI0rt2eiCKBcyzWT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/Vasil/PycharmProjects/Django WEB/Django-web/Old_exams_Django/Python Web Basics Retake Exam - 11 August 2021_Online_Library"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f351086-d0eb-4f0b-abc8-5e7869c8a0a9" name="Changes" comment="" />
+      <created>1650351282892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650351282892</updated>
+      <workItem from="1650351285349" duration="33000" />
+    </task>
+    <servers />
+  </component>
+</project>

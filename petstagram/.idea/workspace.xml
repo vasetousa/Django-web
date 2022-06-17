@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7f0559d-bef1-4261-acce-9ed79a85b540" name="Changes" comment="new project continue">
+      <change afterPath="$PROJECT_DIR$/../Unit and integration testing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit and integration testing/.idea/Unit and integration testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit and integration testing/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit and integration testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit and integration testing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit and integration testing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit and integration testing/lost_and_found/lost_and_found/objects_posts/migrations/0002_alter_post_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/user/.idea/user.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/user/user/user_pass/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/user/user/user_pass/migrations/0002_rename_if_staff_appuser_is_staff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/user/user/user_pass/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/cat_KPXJ8fm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/cat_KdJUiLl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/cat_fAch1Go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediafiles/pers-cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/managers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstagram/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/accounts/login_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree_xxkBRwA.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/.idea/user.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/templates/home_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/migrations/0002_rename_name_spacecraft_craft_name_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/user_opps/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/user/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/892ba334-7074-4ede-a5b6-6295ef0a6502.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/892ba334-7074-4ede-a5b6-6295ef0a6502.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/petstagram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/petstagram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/401_error.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/401_error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/home_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/pet_create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/pet_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/pet_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/pet_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/pet_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/pet_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/photo_create-old.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/photo_create-old.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/photo_create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/photo_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/photo_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/photo_details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/photo_details.origin.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/photo_details.origin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/photo_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/photo_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/profile_create.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/profile_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/profile_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/profile_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/profile_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/profile_details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/profile_details_original.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/profile_details_original.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/templates/profile_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/profile_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/validators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/views/generic.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/views/generic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/views/pet_photos.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/views/pet_photos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/views/pets.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/views/pets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/main/views/profiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/main/views/profiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/petstagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/petstagram/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24h3i2gB8iVtpHLjVkNSzsPgCLj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Vasil/PycharmProjects/Django-web/petstagram",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vasil\PycharmProjects\Django-web\petstagram\templates\accounts" />
+      <recent name="C:\Users\Vasil\PycharmProjects\Django-web\petstagram\petstagram\main\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vasil\PycharmProjects\Django-web\petstagram\templates" />
+      <recent name="C:\Users\Vasil\PycharmProjects\Django-web\petstagram\petstagram" />
+      <recent name="C:\Users\Vasil\PycharmProjects\Django-web\petstagram\petstagram\main\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.petstagram">
+    <configuration name="profiles (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/petstagram/main/templatetags" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/petstagram/main/templatetags/profiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="profiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/petstagram/main/views" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/petstagram/main/views/profiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/petstagram/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/petstagram/main/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="validators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/petstagram/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/petstagram/main/validators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/petstagram/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/petstagram/main/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="petstagram" type="Python.DjangoServer" factoryName="Django server">
+      <module name="petstagram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="petstagram.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urls" />
+        <item itemvalue="Python.profiles (1)" />
+        <item itemvalue="Python.profiles" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.validators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7f0559d-bef1-4261-acce-9ed79a85b540" name="Changes" comment="" />
+      <created>1644069115959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644069115959</updated>
+      <workItem from="1644069131119" duration="17420000" />
+      <workItem from="1644148795764" duration="20650000" />
+      <workItem from="1644424287330" duration="302000" />
+      <workItem from="1644445693997" duration="661000" />
+      <workItem from="1644526459194" duration="90000" />
+      <workItem from="1644580811138" duration="2293000" />
+      <workItem from="1644583130481" duration="12758000" />
+      <workItem from="1644598933935" duration="34590000" />
+      <workItem from="1645016777316" duration="207000" />
+      <workItem from="1645380455927" duration="2022000" />
+      <workItem from="1645448780940" duration="658000" />
+      <workItem from="1645456647791" duration="34000" />
+      <workItem from="1645456683206" duration="2038000" />
+      <workItem from="1645645218501" duration="664000" />
+      <workItem from="1645658252983" duration="195000" />
+      <workItem from="1645660900765" duration="309000" />
+      <workItem from="1645662046678" duration="713000" />
+      <workItem from="1645808852928" duration="9000" />
+      <workItem from="1645808863447" duration="2537000" />
+      <workItem from="1645828083631" duration="1823000" />
+      <workItem from="1645831320784" duration="7000" />
+      <workItem from="1645831329383" duration="356000" />
+      <workItem from="1645831714877" duration="714000" />
+      <workItem from="1645950545994" duration="1568000" />
+      <workItem from="1649080752348" duration="2267000" />
+      <workItem from="1650349999070" duration="614000" />
+      <workItem from="1650350699321" duration="213000" />
+      <workItem from="1650351084469" duration="3372000" />
+      <workItem from="1652355945015" duration="21274000" />
+      <workItem from="1652457668347" duration="5919000" />
+      <workItem from="1652876993897" duration="3041000" />
+      <workItem from="1653056300569" duration="456000" />
+      <workItem from="1653061954426" duration="906000" />
+    </task>
+    <task id="LOCAL-00001" summary="new project">
+      <created>1644069193484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644069193484</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new project continue">
+      <created>1644424549893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644424549893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new project" />
+    <MESSAGE value="new project continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project continue" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/petstagram/main/views/generic.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/petstagram$urls.coverage" NAME="urls Coverage Results" MODIFIED="1644602155524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram/main" />
+    <SUITE FILE_PATH="coverage/petstagram$profiles.coverage" NAME="profiles Coverage Results" MODIFIED="1644599601194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram/main/views" />
+    <SUITE FILE_PATH="coverage/petstagram$views.coverage" NAME="views Coverage Results" MODIFIED="1644595392480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram/main" />
+    <SUITE FILE_PATH="coverage/petstagram$models.coverage" NAME="models Coverage Results" MODIFIED="1644076910159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram/main" />
+    <SUITE FILE_PATH="coverage/petstagram$validators.coverage" NAME="validators Coverage Results" MODIFIED="1644097968712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram/main" />
+    <SUITE FILE_PATH="coverage/petstagram$profiles__1_.coverage" NAME="profiles (1) Coverage Results" MODIFIED="1644599869215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram/main/templatetags" />
+    <SUITE FILE_PATH="coverage/petstagram$settings.coverage" NAME="settings Coverage Results" MODIFIED="1644077294857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/petstagram" />
+  </component>
+</project>

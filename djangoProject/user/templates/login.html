@@ -1,0 +1,8 @@
+
+<h1>Login</h1>
+    <h2>Current user:  {{ request.user | capfirst }}</h2>
+<form action="{% url 'login' %}" method="POST" >
+{% csrf_token %}
+{{ form.as_p }}
+    <button>Login</button>
+</form>

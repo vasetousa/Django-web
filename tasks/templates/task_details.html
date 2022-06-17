@@ -1,0 +1,19 @@
+{% extends 'base/base.html' %}
+{% block page_content %}
+<body>
+<h1>Task</h1>
+<a href="{% url 'all tasks' %}">Go back</a>
+<form method="POST" action="">
+    <hr>
+    {% csrf_token %}
+    <h3> {{ task }}</h3>
+    <div>
+        {% if task.description %}
+        <li>
+            - {{ task.description }}
+        </li>
+        {% endif %}
+    </div>
+</form>
+</body>
+{% endblock %}

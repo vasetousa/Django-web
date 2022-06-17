@@ -1,0 +1,30 @@
+{% extends 'base/base.html' %}
+{% load static %}
+{% block page_content %}
+    <header id="site-header">
+    </header>
+    <!-- Dashboard Page-->
+    <section id="dashboard-page" class="dashboard">
+        <h1>Dashboard</h1>
+        <!-- Display paragraph: If the user doesn't have any books  -->
+        {% if not current_books %}
+            <p class="no-books">No books in database!</p>
+        {% endif %}
+        <!-- Display ul: with list-items for every books if any -->
+
+        <ul class="my-books-list">
+            {% for bo in current_books %}
+                <li class="myBooks">
+                    <h3>{{ bo.title }}</h3>
+                    <p>Type: {{ bo.type }}</p>
+                    <p class="img"><img src="{{ bo.image }}" alt="IMAGE"></p>
+                    <a class="button" href="{% url 'book details page' bo.pk %}">Details</a>
+                </li>
+                {% if forloop.counter|divisibleby:"3" %}
+                    </ul>
+                {% endif %}
+            {% endfor %}
+    </section>
+{% endblock %}
+
+
