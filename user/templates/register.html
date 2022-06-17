@@ -1,0 +1,15 @@
+{% if request.user.is_authenticated %}
+    Welcome, {{ request.user | capfirst }}
+{% else %}
+    <h1>Hello, Guest!</h1>
+{% endif %}
+<a style="text-decoration:none" href="{% url 'index' %}">< Go back</a>
+<hr>
+<h4><p>Please use this form to register:</p></h4>
+<hr>
+
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Register">
+</form>
